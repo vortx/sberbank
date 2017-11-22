@@ -34,6 +34,6 @@ end
 
 {"errorCode"=>"5", "errorMessage"=>"Доступ запрещён"}
 
-Information on errors and statuses you can read in the documentation from Sberbank
-информацию по ошибкам и статусам вы можете прочитать в документации от Сбербанка
+Information on errors and statuses you can read in the documentation from Sberbank (
+информацию по ошибкам и статусам вы можете прочитать в документации от Сбербанка)
 
